@@ -1,6 +1,6 @@
 # Loan-Calculator
-![Screenshot 2024-01-21 233456](https://github.com/siddhanth4/WEB-DEV/assets/130589754/8ef2e95b-9556-4acf-a3d2-f3c8ec5d6264)
-![Screenshot 2024-01-21 233840](https://github.com/siddhanth4/WEB-DEV/assets/130589754/7b07bd0f-b05a-483c-8cf8-588008c2eab8)
+![Screenshot 2024-01-21 233456](https://github.com/siddhanth4/Loan-Calculator/assets/130589754/511aa791-ef07-471f-9216-ef799ce11c50)
+![Screenshot 2024-01-21 233840](https://github.com/siddhanth4/Loan-Calculator/assets/130589754/4284fe49-ba96-4aae-9268-e0b84bb376a6)
 
 ## 🛠 Skills
 Javascript, HTML, CSS, Svelte
